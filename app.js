@@ -26,7 +26,7 @@ app.use((req, res, next) => {
     next();
   });
 
-mongoose.connect("mongodb+srv://dbUser:QQ72vBlSYoliiu11@cluster0.vejqhcf.mongodb.net/visionplus?retryWrites=true&w=majority&appName=Cluster0",
+mongoose.connect("mongodb+srv://dbUser:dCBJqKYXgn4osMsu@cluster0.vejqhcf.mongodb.net/visionplus?retryWrites=true&w=majority&appName=Cluster0",
 
   
   { useNewUrlParser: true,
