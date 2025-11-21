@@ -26,6 +26,8 @@ app.use((req, res, next) => {
     next();
   });
 
+  //courage
+
 mongoose.connect("mongodb+srv://dbUser:dCBJqKYXgn4osMsu@cluster0.vejqhcf.mongodb.net/visionplus?retryWrites=true&w=majority&appName=Cluster0",
 
   
